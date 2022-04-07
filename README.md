@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB DEV
 - 🌱 I’m currently learning REACT AND NODE JS
 - 💞️ I’m looking to collaborate on HUGE PROJECTS
-- 📫 How to reach me NEW AGE
+- 📫 How to reach me Stach
 
 <!---
 NewAgeCreator/NewAgeCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
